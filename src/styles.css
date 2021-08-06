@@ -1,0 +1,21 @@
+    @import '~bootstrap/dist/css/bootstrap.min.css';
+    @import '@fortawesome/fontawesome-free/css/all.css';
+    @font-face {
+        font-family: Special Elite;
+        src: url(assets/SpecialElite-Regular.ttf)format('truetype')
+    }
+    
+    .Elite {
+        font-family: Special Elite;
+    }
+    
+    @font-face {
+        font-family: Alegreya-Italic-VariableFont_wght;
+        src: url(assets/Alegreya-Italic-VariableFont_wght.ttf)format('truetype')
+    }
+    
+    .Alegreya {
+        font-family: Alegreya-Italic-VariableFont_wght;
+        font-size: larger;
+    }
+    /* You can add global styles to this file, and also import other style files */
